@@ -1,5 +1,5 @@
 # connect-to-notion-tutorial
-This is the code for the tutorial here, showing how to connect Notion workspace to LLMs using Psychic, Chroma, and LangChain.
+This is the code for the tutorial [here](www.psychic.dev/post/how-to-connect-the-notion-api-to-langchain), showing how to connect Notion workspace to LLMs using Psychic, Chroma, and LangChain.
 
 ## Running
 1. Create an account at https://dashboard.psychic.dev/ (it's free) and connect a Notion workspace.
